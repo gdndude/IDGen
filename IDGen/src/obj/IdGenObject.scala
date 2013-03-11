@@ -1,0 +1,5 @@
+package obj
+
+class IdGenObject {
+
+}
